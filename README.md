@@ -61,7 +61,7 @@ This is an Elearning Platform built using the MERN (MongoDB, Express.js, React.j
 1. Clone the repository:
 
 ```bash
-https://github.com/Sai-Chakradhar-Mahendrakar/Elearning-Platform-Using-MERN.git
+https://github.com/architsolanki12345/minor-project.git
 ```
 
 2. Navigate to the project directory:
@@ -110,3 +110,4 @@ If you'd like to contribute to the project:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
